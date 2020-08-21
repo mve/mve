@@ -1,4 +1,7 @@
-# Mike van Egmond
+<a href="https://egmond.dev/en">
+    <img src="https://raw.githubusercontent.com/MikevanEgmond1998/MikevanEgmond1998/master/Banner%20Mike%20van%20Egmond.png" title="Mike van Egmond" alt="Banner"/>
+</a>
+
 ## Student at HAN  University of Applied Sciences
 
 | Contact |  |
