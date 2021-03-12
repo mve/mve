@@ -6,7 +6,7 @@
 
 | Contact |  |
 |--|--|
-| 🌐 Website | [egmond.dev/en](https://egmond.dev/en) |
-| 🐦 Twitter | [https://twitter.com/mike_van_egmond](https://twitter.com/mike_van_egmond) |
+| 🌐 Website | [egmond.dev](https://egmond.dev) |
+| 🐦 Twitter | [twitter.com/mike_van_egmond](https://twitter.com/mike_van_egmond) |
 | 📧 Email | mikevanegmond1998@gmail.com |
-| 💼 Linkedin | [https://www.linkedin.com/in/mike-van-egmond/](https://www.linkedin.com/in/mike-van-egmond/) |
+| 💼 Linkedin | [linkedin.com/in/mike-van-egmond](https://www.linkedin.com/in/mike-van-egmond/) |
