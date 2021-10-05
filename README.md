@@ -4,6 +4,8 @@
 
 ## Student at HAN  University of Applied Sciences
 
+[![Mikes' Github Stats](https://github-readme-stats.vercel.app/api?username=mve&count_private=true&show_icons=true)](https://github.com/mve)
+
 | Contact |  |
 |--|--|
 | 🌐 Website | [egmond.dev](https://egmond.dev/?utm_source=GitHub) |
